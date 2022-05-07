@@ -2,10 +2,11 @@
     background-color: beige;
     font-family: Arial, Helvetica, sans-serif;
     padding: 1em;
+    border: 10px dotted purple;
 }
 
 
-.supa:hover {
+.supa.hover:hover {
     background-color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 2em;
