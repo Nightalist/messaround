@@ -1,3 +1,16 @@
+* {
+font-family: "Didot", serif;
+background-color: black;
+color: white;
+text-align: center;
+}
+
+ .sussy *{
+font-family: "Snell Roundhand", serif;
+color: yellow;
+text-align: center;
+}
+
 .supa {
     font-family: Arial, Helvetica, sans-serif;
     padding: 1em;
@@ -13,4 +26,16 @@
     animation: infinite;
     font-weight: bolder;
     color: brown;
+}
+
+.notes * {
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: auto;
+    font-size: 20px;
+}
+
+.notes:hover * {
+    color: cadetblue;
+    font-size: 200%;
 }
